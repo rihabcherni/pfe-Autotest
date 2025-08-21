@@ -77,9 +77,9 @@ It enables teams to streamline test execution, track results in real-time, and c
 
 ### Functional Testing Workflow
 <p align="center">
-    <img src="screenshots/workflow.png" alt="Workflow Screenshot" width="49%"/>
-    <img src="screenshots/fn1.png" alt="Functional Test Screenshot" width="49%"/>
-    <img src="screenshots/fn2.png" alt="Functional Test Screenshot" width="49%"/>
+    <img src="screenshots/workflow.png" alt="Workflow Screenshot" width="70%"/>
+    <img src="screenshots/fn1.png" alt="Functional Test Screenshot" width="60%"/>
+    <img src="screenshots/fn2.png" alt="Functional Test Screenshot" width="39%"/>
 </p>
 
 ### SEO Audit Report
@@ -95,31 +95,32 @@ It enables teams to streamline test execution, track results in real-time, and c
     <img src="screenshots/sec01.png" alt="Pentest Screenshot" width="49%"/>
     <img src="screenshots/sec2.png" alt="Pentest Screenshot" width="49%"/>
     <img src="screenshots/sec3.png" alt="Pentest Screenshot" width="49%"/>
-    <img src="screenshots/sec4.png" alt="Pentest Screenshot" width="49%"/>
+    <img src="screenshots/sec4.png" alt="Pentest Screenshot" width="70%"/>
     <img src="screenshots/sec5.png" alt="Pentest Screenshot" width="49%"/>
     <img src="screenshots/sec6.png" alt="Pentest Screenshot" width="49%"/>
 </p>
 
 ### Report Configuration (Jira, Gmail, Slack)
 <p align="center">
-    <img src="screenshots/config1.png" alt="Config Screenshot" width="49%"/>
+    <img src="screenshots/config.png" alt="Config Screenshot" width="49%"/>
     <img src="screenshots/config5.png" alt="Config Screenshot" width="49%"/>   
-    <img src="screenshots/config2.png" alt="Config Screenshot" width="49%"/>    
-    <img src="screenshots/config3.png" alt="Config Screenshot" width="49%"/>    
+    <img src="screenshots/config2.PNG" alt="Config Screenshot" width="49%"/>    
+    <img src="screenshots/config3.PNG" alt="Config Screenshot" width="49%"/>    
     <img src="screenshots/config4.png" alt="Config Screenshot" width="49%"/>
     <img src="screenshots/config6.png" alt="Config Screenshot" width="49%"/>
 </p>
 
 ### Notifications
 <p align="center">
-    <img src="screenshots/notif1.png" alt="Notification Screenshot" width="49%"/>
+    <img src="screenshots/notif.PNG" alt="Notification Screenshot" width="30%"/><br>
+    <img src="screenshots/notif1.PNG" alt="Notification Screenshot" width="49%"/>
     <img src="screenshots/notif2.png" alt="Notification Screenshot" width="49%"/>    
 </p>
 
 ### Reports
 <p align="center">
-    <img src="screenshots/report1.png" alt="Report Screenshot" width="49%"/>
-    <img src="screenshots/report2.png" alt="Report Screenshot" width="49%"/>
+    <img src="screenshots/report1.PNG" alt="Report Screenshot" width="49%"/>
+    <img src="screenshots/report2.PNG" alt="Report Screenshot" width="49%"/>
     <img src="screenshots/report3.png" alt="Report Screenshot" width="49%"/>
 </p>
 
@@ -130,5 +131,5 @@ It enables teams to streamline test execution, track results in real-time, and c
 
 ### User List
 <p align="center">
-    <img src="screenshots/user-liste.png" alt="User List Screenshot" width="49%"/>
+    <img src="screenshots/user-liste.PNG" alt="User List Screenshot" width="49%"/>
 </p>
