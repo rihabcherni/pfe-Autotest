@@ -1,13 +1,13 @@
-# pfe-AutoTest
-Automated Testing Platform  
-
+# pfe-AutoTest - Automated Testing Platform  
+**AutoTest** is an all-in-one automated testing platform that unifies **functional testing**, **SEO audits**, and **security penetration testing** into a single workflow.  
+It enables teams to streamline test execution, track results in real-time, and centralize reporting for better decision-making.
 <p align="center">
     <img src="screenshots/logo.png" alt="logo" width="10%"/>
 </p>
 
-## Overview
-**AutoTest** is an all-in-one automated testing platform that unifies **functional testing**, **SEO audits**, and **security penetration testing** into a single workflow.  
-It enables teams to streamline test execution, track results in real-time, and centralize reporting for better decision-making.
+## Demo Video  
+🎥 [Watch the demo here](https://drive.google.com/file/d/1JWJuYEB7915UfVYWVCyWytKMkBfQ8ns2/view?usp=sharing)
+
 
 ## Architecture
 - **Frontend (Angular)** → User-friendly interface to configure and launch tests  
@@ -119,16 +119,16 @@ It enables teams to streamline test execution, track results in real-time, and c
 ### Reports
 <p align="center">
     <img src="screenshots/report1.PNG" alt="Report Screenshot" width="70%"/>
-    <img src="screenshots/report2.PNG" alt="Report Screenshot" width="49%"/>
-    <img src="screenshots/report3.png" alt="Report Screenshot" width="49%"/>
+    <img src="screenshots/report2.PNG" alt="Report Screenshot" width="70%"/>
+    <img src="screenshots/report3.png" alt="Report Screenshot" width="70%"/>
 </p>
 
 ### Scheduling
 <p align="center">
-    <img src="screenshots/planfication.png" alt="Scheduling Screenshot" width="49%"/>
+    <img src="screenshots/planfication.png" alt="Scheduling Screenshot" width="70%"/>
 </p>
 
 ### User List
 <p align="center">
-    <img src="screenshots/user-liste.PNG" alt="User List Screenshot" width="49%"/>
+    <img src="screenshots/user-liste.PNG" alt="User List Screenshot" width="70%"/>
 </p>
