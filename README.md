@@ -84,33 +84,32 @@ ng serve
 * **Dashboard View**
 
 <p align="center">
-  <a href="https://demo-link-dashboard.com">
-    <img src="docs/screenshots/dashboard.png" alt="Dashboard Screenshot" width="70%"/>
-  </a>
+    <img src="screenshots/dash1.png" alt="Dashboard Screenshot" width="70%"/>
+    <img src="screenshots/dash2.png" alt="Dashboard Screenshot" width="70%"/>
 </p>
 
 * **Functional Testing Workflow**
 
 <p align="center">
-  <a href="https://demo-link-functional.com">
-    <img src="docs/screenshots/functional.png" alt="Functional Testing Screenshot" width="70%"/>
-  </a>
+    <img src="screenshots/workflow.png" alt="Functional Testing Screenshot" width="70%"/>
 </p>
 
 * **SEO Audit Report**
 
 <p align="center">
-  <a href="https://demo-link-seo.com">
-    <img src="docs/screenshots/seo.png" alt="SEO Report Screenshot" width="70%"/>
-  </a>
+    <img src="screenshots/seo.png" alt="SEO Report Screenshot" width="70%"/>
 </p>
 
 * **Pentest Scan Results**
 
 <p align="center">
-  <a href="https://demo-link-security.com">
-    <img src="docs/screenshots/security.png" alt="Pentest Screenshot" width="70%"/>
-  </a>
+    <img src="screenshots/sec0.png" alt="Pentest Screenshot" width="70%"/>
+    <img src="screenshots/sec1.png" alt="Pentest Screenshot" width="70%"/>
+    <img src="screenshots/sec2.png" alt="Pentest Screenshot" width="70%"/>
+    <img src="screenshots/sec3.png" alt="Pentest Screenshot" width="70%"/>
+    <img src="screenshots/sec4.png" alt="Pentest Screenshot" width="70%"/>
+    <img src="screenshots/sec5.png" alt="Pentest Screenshot" width="70%"/>
+    <img src="screenshots/sec6.png" alt="Pentest Screenshot" width="70%"/>
 </p>
 
 ---
